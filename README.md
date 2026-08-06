@@ -18,9 +18,9 @@
 
 ## 💻 Tech Stack
 
-- 👨‍💻 Languages: C • Java • Python
-- 🌐 Web: HTML5 • CSS3
-- 🛠️ Tools: Git • GitHub • VS Code 
+- 👨‍💻 Languages: C • C++ • C# • Java • Python • Kotlin
+- 🌐 Web: HTML5 • CSS3 • JavaScript • ASP.NET
+- 🛠️ Tools: Git • GitHub • VS Code • Visual Studio
 - 📚 Learning: AI • Machine Learning • Python
 
 ---
