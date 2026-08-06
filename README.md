@@ -16,11 +16,12 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-- 💻 Languages: C, Java, Python
-- 🌐 Web: HTML, CSS, JavaScript
-- 🔧 Tools: Git, GitHub
+- 👨‍💻 Languages: C • Java • Python
+- 🌐 Web: HTML5 • CSS3
+- 🛠️ Tools: Git • GitHub • VS Code 
+- 📚 Learning: AI • Machine Learning • Python
 
 ---
 
