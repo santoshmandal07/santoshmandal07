@@ -1,31 +1,40 @@
-# Hi there, I'm Santosh Mandal 👋
+# Hi there 👋, I'm Santosh Mandal
 
-🎓 BCA Student at NSHM Knowledge Campus
+🎓 **BCA Student** at NSHM Knowledge Campus  
+🤖 **Aspiring AI/ML Engineer**  
+💻 Learning **Python, Web Development, and Artificial Intelligence**  
+📍 Kolkata, India
 
-🚀 Aspiring AI/ML Engineer
+---
 
-💻 Currently Learning
+## 🚀 About Me
+
+- 🌱 Currently learning **Python**, **Artificial Intelligence & Machine Learning** and building programming projects.
+- 🧠 Exploring **Artificial Intelligence & Machine Learning**.
+- 💡 Passionate about solving real-world problems with technology.
+- 🎯 Goal: Become an AI/ML Engineer and build impactful products.
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: C, Java, Python
+- 🌐 Web: HTML, CSS, JavaScript
+- 🔧 Tools: Git, GitHub
+
+---
+
+## 📚 Currently Learning
+
 - Python
+- Data Structures
 - Web Development
-- Artificial Intelligence & Machine Learning
+- AI & Machine Learning
 
-🛠️ Skills
-- Python
-- C
-- Java
-- HTML
-- CSS
-- Git
-- GitHub
+---
 
-🎯 Goals
-- Build real-world AI & ML projects
-- Become a Software & AI Engineer
-- Contribute to Open Source
-- Continuously learn and improve
+## 📫 Connect with Me
 
-📚 Current Focus
-Learning Python and building projects to strengthen my programming and problem-solving skills.
+- LinkedIn: https://www.linkedin.com/in/santosh-mandal-399531309/
 
-📫 Connect with me:
-LinkedIn: https://www.linkedin.com/in/santosh-mandal-399531309/
+⭐ *"Learning. Building. Improving. Every single day."*
