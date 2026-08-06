@@ -36,5 +36,6 @@
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/santosh-mandal-399531309/
+- Mail: santoshmandal8583@gmail.com
 
 ⭐ *"Learning. Building. Improving. Every single day."*
